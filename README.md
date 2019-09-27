@@ -1,2 +1,2 @@
 # web-desing
-html and css basic
+basic html and css
